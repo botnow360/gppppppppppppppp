@@ -1,0 +1,4 @@
+python-telegram-bot==13.15
+requests
+python-dotenv
+APScheduler==3.6.3
